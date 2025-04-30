@@ -1,5 +1,3 @@
-# CodeAlpha
-
 # 🚀 Network Intrusion Detection System (NIDS)
 
 ## 🔍 Overview
